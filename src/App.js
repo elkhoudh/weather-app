@@ -44,7 +44,6 @@ class App extends React.Component {
   };
   render() {
     return (
-      <div>
         <div className="wrapper">
           <div className="main">
             <div className="container">
@@ -67,7 +66,6 @@ class App extends React.Component {
             </div>
           </div>
         </div>
-      </div>
     );
   }
 }
